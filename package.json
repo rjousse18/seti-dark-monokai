@@ -1,0 +1,15 @@
+{
+  "name": "seti-dark-monokai",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A syntax monokai style for seti UI theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/seti-dark-monokai",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0"
+  }
+}
