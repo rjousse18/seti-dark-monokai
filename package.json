@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/seti-dark-monokai",
+  "repository": "https://github.com/rjousse18/seti-dark-monokai",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
