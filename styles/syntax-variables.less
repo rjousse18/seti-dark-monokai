@@ -32,3 +32,38 @@
 @syntax-color-added: @sea-green;
 @syntax-color-modified: @yellow;
 @syntax-color-removed: @pink;
+
+// HTML
+@tag: @color1;
+@tag-entity: @color1;
+
+// TEXT
+@quotes: lighten(@color1, 20%);
+@code-font-color: darken(@white, 10%);
+@syntax-color-markup: @code-font-color;
+@markup-heading: @orange;
+@markup-h1: @markup-heading;
+@markup-h2: lighten(@markup-heading, 5);
+@markup-h3: lighten(@markup-heading, 10);
+@markup-h4: lighten(@markup-heading, 15);
+@markup-h5: lighten(@markup-heading, 20);
+@markup-h6: lighten(@markup-heading, 25);
+
+//SYNTAX COLOR
+@error: @red;
+@comment: @gray; // comments, duhr.
+@comment-bg: none;
+@comment-punc: @comment;
+@error-punc: darken(@error, 20%);
+@punctuation: darken(@light-ghost-white, 3%);
+@string: @color1;
+@variable: @color1;
+
+
+// STRING
+@punctuation-definition-array: @string;
+@punctuation-definition-string: @string;
+@punctuation-definition-variable: @variable;
+
+// PUNCTUATION
+@punctuation-separator: @light-ghost-white;

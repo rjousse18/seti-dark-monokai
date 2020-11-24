@@ -1,15 +1,45 @@
 {
-  "name": "seti-dark-monokai",
-  "theme": "syntax",
-  "version": "0.1.0",
+  "_from": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball",
+  "_id": "seti-dark-monokai@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-fL1xaght2wQGDgmJ9AqaYIuKX+VJOpjSBwmhpk3rw2/LMhYOBVdbhWZIXccORSEFz5WFm6cTp7igmtfQ0L8DDA==",
+  "_location": "/seti-dark-monokai",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball",
+  "_shasum": "8f68e80e47ffb2f9ecdc1962e3add369eaecbea4",
+  "_spec": "https://www.atom.io/api/packages/seti-dark-monokai/versions/0.1.0/tarball",
+  "_where": "/tmp/apm-install-dir-12019-22998-hq5r3a.gubop",
+  "bugs": {
+    "url": "https://github.com/rjousse18/seti-dark-monokai/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A syntax monokai style for seti UI theme",
+  "engines": {
+    "atom": ">=1.13.0"
+  },
+  "homepage": "https://github.com/rjousse18/seti-dark-monokai#readme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/rjousse18/seti-dark-monokai",
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.13.0"
-  }
+  "name": "seti-dark-monokai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjousse18/seti-dark-monokai.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.0"
 }
